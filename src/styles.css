@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: start;
+}
+
+
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.btn {
+  margin: 5px;
+}
